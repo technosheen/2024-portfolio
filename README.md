@@ -1,4 +1,4 @@
-# Developer Portfolio built with Next.js and Cosmic
+# Sean Developer Portfolio built with Next.js and Cosmic
 
 ![Screenshot of the Cosmic Developer Porfolio application template](/public/images/dev-portfolio.png)
 
